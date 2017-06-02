@@ -1,3 +1,4 @@
+"use strict"
 const printInventory = require('../main/main');
 
 describe('pos', () => {

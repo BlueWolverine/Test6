@@ -1,3 +1,5 @@
+"use strict"
+
 module.exports = function loadAllItems() {
     return [
         {
@@ -38,5 +40,3 @@ module.exports = function loadAllItems() {
         }
     ];
 };
-
-
